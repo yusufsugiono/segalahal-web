@@ -1,0 +1,23 @@
+{
+  "name": "segalahal-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufsugiono/segalahal-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufsugiono/segalahal-web/issues"
+  },
+  "homepage": "https://github.com/yusufsugiono/segalahal-web#readme",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2"
+  }
+}
